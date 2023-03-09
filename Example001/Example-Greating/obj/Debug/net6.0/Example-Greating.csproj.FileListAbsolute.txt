@@ -1,0 +1,15 @@
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.csproj.AssemblyReference.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.AssemblyInfoInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.AssemblyInfo.cs
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.csproj.CoreCompileInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/bin/Debug/net6.0/Example-Greating
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/bin/Debug/net6.0/Example-Greating.deps.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/bin/Debug/net6.0/Example-Greating.runtimeconfig.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/bin/Debug/net6.0/Example-Greating.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/bin/Debug/net6.0/Example-Greating.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/refint/Example-Greating.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/Example-Greating.genruntimeconfig.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example-Greating/obj/Debug/net6.0/ref/Example-Greating.dll

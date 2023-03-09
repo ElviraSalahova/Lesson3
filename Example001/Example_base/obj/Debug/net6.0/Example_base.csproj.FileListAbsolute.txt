@@ -1,0 +1,15 @@
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/bin/Debug/net6.0/Example_base
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/bin/Debug/net6.0/Example_base.deps.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/bin/Debug/net6.0/Example_base.runtimeconfig.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/bin/Debug/net6.0/Example_base.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/bin/Debug/net6.0/Example_base.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.csproj.AssemblyReference.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.AssemblyInfoInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.AssemblyInfo.cs
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.csproj.CoreCompileInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/refint/Example_base.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/Example_base.genruntimeconfig.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Example_base/obj/Debug/net6.0/ref/Example_base.dll
