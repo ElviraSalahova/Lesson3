@@ -1,0 +1,15 @@
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/bin/Debug/net6.0/Divide-Example
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/bin/Debug/net6.0/Divide-Example.deps.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/bin/Debug/net6.0/Divide-Example.runtimeconfig.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/bin/Debug/net6.0/Divide-Example.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/bin/Debug/net6.0/Divide-Example.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.csproj.AssemblyReference.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.AssemblyInfoInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.AssemblyInfo.cs
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.csproj.CoreCompileInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/refint/Divide-Example.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/Divide-Example.genruntimeconfig.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/Divide-Example/obj/Debug/net6.0/ref/Divide-Example.dll

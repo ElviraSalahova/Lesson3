@@ -1,0 +1,15 @@
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/bin/Debug/net6.0/SumOfNumbers
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/bin/Debug/net6.0/SumOfNumbers.deps.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/bin/Debug/net6.0/SumOfNumbers.runtimeconfig.json
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/bin/Debug/net6.0/SumOfNumbers.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/bin/Debug/net6.0/SumOfNumbers.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.csproj.AssemblyReference.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.AssemblyInfoInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.AssemblyInfo.cs
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.csproj.CoreCompileInputs.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/refint/SumOfNumbers.dll
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.pdb
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/SumOfNumbers.genruntimeconfig.cache
+/Users/elvirasalahova/Desktop/Git_Seminars1and2/Example/Example001/SumOfNumbers/obj/Debug/net6.0/ref/SumOfNumbers.dll
